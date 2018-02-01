@@ -2,6 +2,7 @@
     "name": "echosign/echosign",
     "description": "convert echosign libs in composer based project",
     "type": "project",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Dhaval Varsada",
