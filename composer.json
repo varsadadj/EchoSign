@@ -1,7 +1,7 @@
 {
     "name": "echosign/echosign",
     "description": "convert echosign libs in composer based project",
-    "type": "project",
+    "type": "package",
     "minimum-stability": "dev",
     "authors": [
         {
